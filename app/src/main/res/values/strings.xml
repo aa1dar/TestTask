@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="enterName">Введите название</string>
+</resources>
